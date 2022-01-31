@@ -1,6 +1,18 @@
 //
 
+const version = '31.01.2022';
+
+
+
+
 $(function(){
+
+
+
+	$('#version').html( version );
+
+
+
 
 	//alert( typeof $);
 
