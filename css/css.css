@@ -1,0 +1,90 @@
+body {
+	/*margin: 0;*/
+	/*padding: 5px;*/
+	background-color: #111;
+	font-family: Courier New;
+	color: lime;
+}
+
+a {
+	text-decoration: none;
+	color: aqua;
+}
+
+header {
+
+	top: 0;
+	left: 0;
+	height: 585px;
+	width: 100%;
+	font-size: 80px;
+	font-weight: bold;
+	font-style: oblique;
+	position: fixed;
+}
+	header .link {
+		font-weight: normal;
+		font-size: 60px;
+	}
+		header .title {
+			margin: 0 0 0 0;
+			padding: 0 20px;
+			background: linear-gradient( to top, #333, #111);
+		}
+
+.hide {
+	display: none;
+}
+
+.listNav {
+	margin-top: 700px;
+}
+	.listNav .each {
+		/*padding: 1px 10px;
+		background: linear-gradient( to top, #333, #111);
+		border-radius: 5px;*/
+	}
+
+	.listNav .head {
+		margin: 5px;
+		padding: 10px;
+		border-radius: 10px;
+		background: linear-gradient( to top, #fff, #ccc);
+		font-size: 55px;
+		color: #000;
+		text-align: center;
+		font-weight: bold;
+		font-style: oblique;
+	}
+
+	.listNav .body {
+		margin: 5px 0 5px 35px;
+	}
+		.listNav .body .nameVideo {
+			margin: 0 0 5px 0px;
+			font-size: 50px;
+			text-align: center;
+			background: linear-gradient( to top, #333, #000 );
+			cursor: pointer
+		}
+		.listNav .body .nameVideo:hover {
+			background: linear-gradient( to bottom, #333, #000);
+			color: yellow;
+		}
+
+.active {
+	color: #fff;
+}
+
+
+
+.video {
+	height: 584px;
+	width: 100%;
+	margin: 0 auto;
+}
+
+
+
+
+
