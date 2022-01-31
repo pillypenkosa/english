@@ -1062,20 +1062,11 @@ let lists = {
 
 	],
 
-
+/*
 	trainer: [
 
 		{ title: 'А.Бебрис - Тренажер 1', href: 'VMO4P6X7GcE', },
 		{ title: 'А.Бебрис - Тренажер 21', href: 'TrkM2UyfgAI', },
-
-/*
-		{ title: '', href: '', },
-		{ title: '', href: '', },
-		{ title: '', href: '', },
-		{ title: '', href: '', },
-		{ title: '', href: '', },
-		{ title: '', href: '', },
-*/
 
 	],
 
@@ -1088,12 +1079,6 @@ let lists = {
 		{ title: '004 - I wish', href: 'mK9BxXTepag', },
 		{ title: '005 - have got', href: 'xiY-g-sVekw', },
 
-/*
-		{ title: '', href: '', },
-		{ title: '', href: '', },
-*/
-
-
 		{ title: '100 - As far as I am concerned', href: 's0pjIMvE2lw', },
 
 
@@ -1104,7 +1089,7 @@ let lists = {
 
 	]
 
-
+*/
 
 };
 
