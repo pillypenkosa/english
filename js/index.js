@@ -66,7 +66,7 @@ $(function(){
 
 		$('.video').empty();
 		$('.video').append(`
-			<iframe width="1038" height="584" src="https://www.youtube.com/embed/${ href }" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+			<iframe src="https://www.youtube.com/embed/${ href }" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 		`);
 
 		$('header .link').html( ' <a href="https://www.youtube.com/watch?v=' + href + '" target="_blank" title="Перейти на YouTube">' + ' ' + href + '</a>');
