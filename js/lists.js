@@ -1062,7 +1062,7 @@ let lists = {
 
 	],
 
-/*
+
 	trainer: [
 
 		{ title: 'А.Бебрис - Тренажер 1', href: 'VMO4P6X7GcE', },
@@ -1081,15 +1081,7 @@ let lists = {
 
 		{ title: '100 - As far as I am concerned', href: 's0pjIMvE2lw', },
 
-
-
-
-
-
-
 	]
-
-*/
 
 };
 
