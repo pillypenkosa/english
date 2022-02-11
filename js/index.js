@@ -1,6 +1,6 @@
 //
 
-const version = '31.01.2022';
+const version = '11.02.2022';
 
 
 
@@ -50,7 +50,7 @@ $(function(){
 			$('.listNav .each[data-key="' + key + '"]').find('.body').removeClass('hide');
 
 			if ( lists[ key ] ) {
-				lists[ key ].map( function( k ){
+				lists[ key ].map( function( k, i  ){
 					$('.listNav .each[data-key="' + key + '"]').find('.body').append(`
 						<div class="nameVideo" data-youtube="${ k.href }">${ k.title }</div>
 					`);
